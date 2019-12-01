@@ -1,5 +1,4 @@
 import * as fetch from 'node-fetch'
-const GOOGLE_FONTS_API_URL = 'AIzaSyALIJ899r5PF9OqcOJIps9cR1UaD2BzFiA';
 const GOOGLE_URL = 'https://fonts.googleapis.com'
 // HAOHAO: im back
 
